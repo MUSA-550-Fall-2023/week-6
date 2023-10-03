@@ -27,6 +27,3 @@
   - sections: introduction, basics, elements, attributes
 - [Tutorial on Web Scraping with Requests and BeautifulSoup](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/)
 - [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
-- [101 Web Scraping Exercises](https://github.com/stanfordjournalism/search-script-scrape)
-- [Github Actions](https://docs.github.com/en/actions)
-- [Covid Stats Twitter Bot Repo](https://github.com/MUSA-550-Fall-2022/covid-stats-bot)
